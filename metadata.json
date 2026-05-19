@@ -1,0 +1,6 @@
+{
+  "name": "QuarkVibe - Premium Video Portal",
+  "description": "A high-end video link importer and player with Apple/Netflix aesthetics and immersive Three.js backgrounds.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
